@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.level{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.card{
+    width: 150px;
+    height: 200px;
+    margin: 10px 10px;
+    background-color: aqua;
+}
